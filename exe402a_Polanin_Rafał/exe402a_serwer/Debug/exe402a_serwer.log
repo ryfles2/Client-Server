@@ -1,0 +1,8 @@
+﻿  serwer.c
+a:\semestr 4\programowanie klient serwer\zadania\exe402a_polanin_rafał\exe402a_serwer\serwer.c(96): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+a:\semestr 4\programowanie klient serwer\zadania\exe402a_polanin_rafał\exe402a_serwer\serwer.c(96): warning C4024: 'printf': different types for formal and actual parameter 1
+a:\semestr 4\programowanie klient serwer\zadania\exe402a_polanin_rafał\exe402a_serwer\serwer.c(106): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+a:\semestr 4\programowanie klient serwer\zadania\exe402a_polanin_rafał\exe402a_serwer\serwer.c(106): warning C4024: 'printf': different types for formal and actual parameter 1
+a:\semestr 4\programowanie klient serwer\zadania\exe402a_polanin_rafał\exe402a_serwer\serwer.c(146): warning C4101: 'mlen': unreferenced local variable
+a:\semestr 4\programowanie klient serwer\zadania\exe402a_polanin_rafał\exe402a_serwer\serwer.c(202): warning C4090: 'function': different 'const' qualifiers
+  exe402a_serwer.vcxproj -> A:\Semestr 4\Programowanie klient serwer\Zadania\exe402a_Polanin_Rafał\Debug\exe402a_serwer.exe

@@ -1,0 +1,8 @@
+﻿  client.c
+a:\semestr 4\programowanie klient serwer\zadania\exe402a_polanin_rafał\exe402a_polanin_rafał\client.c(71): warning C4090: 'function': different 'const' qualifiers
+a:\semestr 4\programowanie klient serwer\zadania\exe402a_polanin_rafał\exe402a_polanin_rafał\client.c(91): warning C4013: 'gets' undefined; assuming extern returning int
+a:\semestr 4\programowanie klient serwer\zadania\exe402a_polanin_rafał\exe402a_polanin_rafał\client.c(100): warning C4047: 'function': 'int' differs in levels of indirection from 'char [29]'
+a:\semestr 4\programowanie klient serwer\zadania\exe402a_polanin_rafał\exe402a_polanin_rafał\client.c(100): warning C4024: 'wsaErrorMsge': different types for formal and actual parameter 2
+a:\semestr 4\programowanie klient serwer\zadania\exe402a_polanin_rafał\exe402a_polanin_rafał\client.c(101): warning C4098: 'msg': 'void' function returning a value
+a:\semestr 4\programowanie klient serwer\zadania\exe402a_polanin_rafał\exe402a_polanin_rafał\client.c(170): warning C4090: 'function': different 'const' qualifiers
+  exe402a_Polanin_Rafał.vcxproj -> A:\Semestr 4\Programowanie klient serwer\Zadania\exe402a_Polanin_Rafał\Debug\exe402a_client.exe
